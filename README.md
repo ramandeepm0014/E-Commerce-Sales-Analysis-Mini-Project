@@ -190,7 +190,8 @@ Designed an interactive Power BI dashboard featuring:
 
 # 📷 Dashboard Preview
 
-Power BI dashboard screenshots are available in the **dashboard_screenshots** folder.
+<img width="1356" height="724" alt="image" src="https://github.com/user-attachments/assets/59130a89-9a6d-402c-b528-2465ccaca2c2" />
+
 
 
 # 📚 Learning Outcomes
